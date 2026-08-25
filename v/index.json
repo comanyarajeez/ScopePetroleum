@@ -32,6 +32,18 @@
     "manu": "HITACHI",
     "model": "ZX200-A5 hybrid ",
     "htmlPath": "v/ST-4542-20.html",
-    "publishedAt": "2026-08-25T14:59:37.346Z"
+    "publishedAt": "2026-08-25T14:59:37.346Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ST-4542-19",
+    "date": "15/May/2026",
+    "reg": "A 6286-Basra",
+    "chassis": "HCM1U100A00221607",
+    "client": "MSK Co., BASRA , IRAQ",
+    "manu": "HITACHI",
+    "model": "ZX200-Z3",
+    "htmlPath": "v/ST-4542-19.html",
+    "publishedAt": "2026-08-25T15:30:49.242Z"
   }
 ]
