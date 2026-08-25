@@ -80,6 +80,18 @@
     "manu": "HITACHI",
     "model": "ZX200-B5",
     "htmlPath": "v/ST-4542-26.html",
-    "publishedAt": "2026-08-25T17:20:38.125Z"
+    "publishedAt": "2026-08-25T17:20:38.125Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ST-4542-29",
+    "date": "27/May/2026",
+    "reg": "A 5734-Basrah",
+    "chassis": "HCMDCKA6A00305807",
+    "client": "MSK Co., BASRA , IRAQ",
+    "manu": "HITACHI",
+    "model": "ZX200-B5",
+    "htmlPath": "v/ST-4542-29.html",
+    "publishedAt": "2026-08-25T17:29:13.692Z"
   }
 ]
