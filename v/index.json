@@ -9,11 +9,7 @@
     "model": "12G",
     "htmlPath": "v/ST-4540-23.html",
     "publishedAt": "2026-08-18T08:33:28.425Z",
-    "_matched": [
-      "رقم الشاصي",
-      "رقم اللوحة",
-      "تاريخ الفحص"
-    ]
+    "_matched": []
   },
   {
     "certNo": "ST-4540-19",
@@ -24,6 +20,18 @@
     "manu": "CATERPILLAR ",
     "model": "12G",
     "htmlPath": "v/ST-4540-19.html",
-    "publishedAt": "2026-08-18T08:42:27.985Z"
+    "publishedAt": "2026-08-18T08:42:27.985Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ST-4542-20",
+    "date": "11/May/2026",
+    "reg": "A 17420-Babylon",
+    "chassis": "HCMDCFA0P00010198",
+    "client": "MSK Co., BASRA , IRAQ",
+    "manu": "HITACHI",
+    "model": "ZX200-A5 hybrid ",
+    "htmlPath": "v/ST-4542-20.html",
+    "publishedAt": "2026-08-25T14:59:37.346Z"
   }
 ]
