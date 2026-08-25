@@ -33,11 +33,7 @@
     "model": "ZX200-A5 hybrid ",
     "htmlPath": "v/ST-4542-20.html",
     "publishedAt": "2026-08-25T14:59:37.346Z",
-    "_matched": [
-      "رقم الشاصي",
-      "رقم اللوحة",
-      "تاريخ الفحص"
-    ]
+    "_matched": []
   },
   {
     "certNo": "ST-4542-19",
@@ -60,6 +56,18 @@
     "manu": "HITACHI",
     "model": "ZX200-A5 hybrid ",
     "htmlPath": "v/ST-4542-16.html",
-    "publishedAt": "2026-08-25T15:58:42.687Z"
+    "publishedAt": "2026-08-25T15:58:42.687Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ST-4542-22",
+    "date": "19/May/2026",
+    "reg": "A 6297-Basrah",
+    "chassis": "HCMDCKA0P00302099",
+    "client": "MSK Co., BASRA , IRAQ",
+    "manu": "HITACHI",
+    "model": "ZX200-B5",
+    "htmlPath": "v/ST-4542-22.html",
+    "publishedAt": "2026-08-25T17:05:45.806Z"
   }
 ]
