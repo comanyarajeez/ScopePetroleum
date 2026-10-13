@@ -116,6 +116,18 @@
     "manu": "SAKAI ",
     "model": "​Rubber-tired roller",
     "htmlPath": "v/ST-4531-56.html",
-    "publishedAt": "2026-08-27T04:32:45.867Z"
+    "publishedAt": "2026-08-27T04:32:45.867Z",
+    "_matched": []
+  },
+  {
+    "certNo": "ST-4536-25",
+    "date": "05/march/2023",
+    "reg": "A 26286-Basra",
+    "chassis": "HCM1G600P00117888",
+    "client": "MSK Co., BASRA , IRAQ",
+    "manu": "HITACHI",
+    "model": "ZX200",
+    "htmlPath": "v/ST-4536-25.html",
+    "publishedAt": "2026-10-13T19:47:14.450Z"
   }
 ]
